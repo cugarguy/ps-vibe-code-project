@@ -9,6 +9,7 @@ _____
 ## What it tests
 
 _Tie it back to the validation brief: which assumption does this prototype put in front of a user?_
+Users will complete daily updates if all they need to do is validate and click some buttons
 
 _____
 
