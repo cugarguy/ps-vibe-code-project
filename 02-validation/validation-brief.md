@@ -1,36 +1,25 @@
 # Validation Brief
 
-> Module 2 · Validation. Frame the riskiest assumption, then build to test it. **This locks your scenario, no switching after M2.**
+**Scenario:** SCENARIO 02 The Internal Tool Nobody Uses
 
-## Scenario
+## 1 · Hypothesis
+I'm testing whether users will complete daily updates if all they need to do is validate and click some buttons
 
-_____
+## 2 · Risk type & kill switch
+- **Risk type:** Usability
+- **Build to test it:** Clickable mockup
+- **Kill switch:** User don't click the buttons to validate or reject their updates.
 
-## Riskiest assumption
+## 3 · Success criteria
+>80% of users complete all their validations
 
-_The one belief that, if false, sinks the idea._
+## 4 · Problem Framework
+1. **Goal**, We want current updates on our customer opportunities without taxing our reps with too much effort
+2. **Problem**, Reps do not like entering data, even if it is just copy and paste, and especially if it doesn't help them with their customers
+3. **Context**, sales reps are the primary users, and leaders are secondary. The reps review and validate, and the leaders monitor the results
+4. **Constraints**, We can't change how reps work
+5. **Success**, Sales reps use the tool consistently, and request improvements instead of changes and redesigns
+6. **Explore**, Whether creating a frictionless process for the sales reps will get them to use the CRM regularly and consistently
 
-_____
-
-## Hypothesis
-
-> We believe **[change]** will cause **[outcome]** for **[user]**. We'll know we're right when **[signal]**.
-
-## Risk type
-
-- [ ] Value (do they want it?)
-- [ ] Usability (can they use it?)
-- [ ] Feasibility (can we build it?)
-- [ ] Viability (should we?)
-
-## Kill switch
-
-_The result that would make you stop or pivot._
-
-_____
-
-## The three ingredients
-
-- **Real data (domain metrics):** _____
-- **User voice (verbatim quotes):** _____
-- **Hypothesis (above):** ✓
+---
+_Module 2 · Vibe Coding Certification · frame before you build._
