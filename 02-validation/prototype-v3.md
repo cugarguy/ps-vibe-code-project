@@ -3,7 +3,7 @@
 > Module 2 · Validation. The prototype is a hypothesis test, not a demo.
 
 ## Link
-
+https://sell-smarter-tool.lovable.app/ 
 _____
 
 ## What it tests
