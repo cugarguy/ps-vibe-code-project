@@ -41,11 +41,14 @@ Don't change anything else in the project or touch the underlying logic.
 
 ## Reusable techniques learned
 
-- _____
-- _____
+- It is important to tell the llm what not to touch, just as much as what to touch.
+- language matters - how you describe a change can lead to an unexpected outcome.
+- It can make changes you don't really notice until you get to edge cases.
 
 ## What broke (and the fix)
 
 _Where a single mega-prompt failed and chaining fixed it._
 
+The numbers/metrics on screen kept counting elements that were no longer there.
+Instead of showing me all the opportunities, it hid them until the each one is processed.
 _____
