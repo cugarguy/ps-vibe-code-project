@@ -1,5 +1,7 @@
 # Engineering Handoff Note
 
+*This version of the file is not nearly as well formatted as Lovable's version - see sell-smarter-engineering-handoff.md in this repo and folder*
+
 > Module 4 · Production Specs. Open the black box, make the build legible to an engineer.
 
 ## What this is
